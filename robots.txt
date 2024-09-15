@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zaanr.github.io/niS/sitemap.niS.gz
